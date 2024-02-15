@@ -1,0 +1,56 @@
+.about-inner {
+    padding-top: 80px;
+    padding-bottom: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-box{
+    max-width: 600px;
+}
+.about-h3 {
+    color:  #1E212C;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: 1px;
+}
+.about-h2 {
+    color:  #1E212C;
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 130%;
+    margin-bottom: 48px;
+}
+.about-p {
+    color:  #424551;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+    margin-bottom: 40px
+}
+.about-btn {
+    width: max-content;
+    margin-left: 0;
+    font-weight: 700;
+}
+
+.about-btn {
+    background-color: #1e1e1e;
+    color: aliceblue;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: none;
+    border-radius: 20px;
+    border: none;
+    padding: 8px 18px;
+    display: flex;
+    align-items: center;
+    border: 2px solid #1e1e1e;
+}
+.about-hacker {
+    border-radius: 50%;
+}
